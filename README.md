@@ -33,6 +33,7 @@ Use Fitbit fitness tracker data to identify trends in user behavior and provide 
     Low Step Counts: Many users fall short of the recommended 10,000 daily steps, indicating a gap between intended and actual activity levels.
 
 💡 Business Insights & Recommendations
+
 📲 Encourage Consistent Usage
 
     Emphasize consistency in marketing campaigns—show how regular tracking builds long-term insights into health.
