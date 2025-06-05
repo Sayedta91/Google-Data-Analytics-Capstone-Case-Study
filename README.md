@@ -65,4 +65,5 @@ Use Fitbit fitness tracker data to identify trends in user behavior and provide 
 By applying these trends to customer interactions, Bellabeat can create a more personalized and engaging experience. This approach not only helps users achieve their fitness goals but also fosters a stronger connection between the users and the product. Tailoring marketing strategies and product features to these insights ensures that Bellabeat meets user needs more effectively and enhances overall customer satisfaction and retention.
 
 📁 Project File
+
 View full notebook [here](https://github.com/Sayedta91/Google-Data-Analytics-Capstone-Case-Study/blob/main/bellabeat-case-study.ipynb).
