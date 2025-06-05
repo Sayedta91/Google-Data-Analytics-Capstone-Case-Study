@@ -5,6 +5,7 @@ This project is part of the Google Data Analytics Professional Certificate Capst
 🧠 Objective
 
 Use Fitbit fitness tracker data to identify trends in user behavior and provide actionable recommendations for Bellabeat's marketing and engagement strategy.
+
 🔧 Tools Used
 
     Python: pandas, matplotlib, seaborn, NumPy
