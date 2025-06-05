@@ -1,21 +1,64 @@
-# Google Data Analytics Capstone Case Study
-Bellabeat, a successful small company with potential for global growth in the smart device market, aims to leverage smart device fitness data to uncover new opportunities. Urška Sršen, cofounder and Chief Creative Officer, believes that analyzing consumer usage data from one of Bellabeat’s products can provide valuable insights to drive marketing strategy.
+📊 Bellabeat Case Study – Google Data Analytics Capstone
 
-Business Task:
+This project is part of the Google Data Analytics Professional Certificate Capstone. I analyzed smart device usage data to help Bellabeat, a high-tech manufacturer of health-focused products for women, make data-driven business decisions.
+🧠 Objective
 
-    - Analyze consumer usage data: Focus on one of Bellabeat's products and analyze smart device fitness data to gain insights into how consumers are using that specific device.
-    - Identify growth opportunities: Use the insights from the data analysis to identify potential areas for growth or improvement for the company.
-    - Guide marketing strategy: Develop high-level marketing recommendations based on your analysis to help shape Bellabeat's overall marketing strategy.
-    - Present your findings: Summarize the insights and recommendations.
+Use Fitbit fitness tracker data to identify trends in user behavior and provide actionable recommendations for Bellabeat's marketing and engagement strategy.
+🔧 Tools Used
 
-Business Objectives
+    Python: pandas, matplotlib, seaborn, NumPy
 
-    1. What are some trends in smart device usage?
-    2. How could these trends apply to Bellabeat customers?
-    3. How could these trends help influence Bellabeat marketing strategy?
-    
-Tools Used:
+    Jupyter Notebook for analysis and visualization
 
-Python for Data Cleaning, Data Transformation and Data Visualisation
+    GitHub for project sharing and version control
 
-Data Set is publicly available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
+📈 Key Analysis Areas
+
+    Daily activity patterns (steps, distance, calories)
+
+    Sedentary vs. active time
+
+    Weekday vs. weekend behavior
+
+    Sleep tracking frequency
+
+    User engagement patterns and usage consistency
+
+🔍 Key Trends Identified
+
+    Sedentary Tracking Dominance: 81% of users primarily tracked sedentary activity, suggesting many users lead seated or inactive lifestyles.
+
+    Weekday vs. Weekend Use: Engagement (e.g., device usage and logging) is higher midweek, peaking on Tuesdays and Wednesdays, and drops on weekends.
+
+    Low Step Counts: Many users fall short of the recommended 10,000 daily steps, indicating a gap between intended and actual activity levels.
+
+💡 Business Insights & Recommendations
+📲 Encourage Consistent Usage
+
+    Emphasize consistency in marketing campaigns—show how regular tracking builds long-term insights into health.
+
+    Use daily reminders or motivational notifications (e.g., "Just 500 more steps to reach your goal!") to build habits.
+
+    Promote success stories showing improved health from regular usage.
+
+⏰ Optimize Notification Timing
+
+    Align in-app nudges and email campaigns with peak engagement times (e.g., midweek afternoons).
+
+    Suggest activities like stretching or walking during periods of typical inactivity.
+
+💤 Improve Sleep Tracking
+
+    Introduce gentle “wind-down” reminders to encourage users to log their sleep.
+
+    Educate users on the value of sleep data through blogs, tips, and wellness content.
+
+🚶‍♀️ Address Inactivity with Content
+
+    Produce explainer videos or blog posts highlighting the risks of prolonged sedentary behavior.
+
+    Offer tips, short challenges, or micro-workouts that users can integrate into daily routines.
+
+✅ Outcome
+
+These insights support a personalized, behavior-based marketing strategy that helps Bellabeat enhance user engagement, encourage healthy habits, and strengthen customer loyalty.
