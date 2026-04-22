@@ -2,6 +2,8 @@
 
 This project is part of the Google Data Analytics Professional Certificate Capstone. I analyzed smart device usage data to help Bellabeat, a high-tech manufacturer of health-focused products for women, make data-driven business decisions.
 
+--------
+
 **Objective**
 
 Use Fitbit fitness tracker data to identify trends in user behavior and provide actionable recommendations for Bellabeat's marketing and engagement strategy.
@@ -34,6 +36,8 @@ Key Trends Identified
     Sedentary Tracking Dominance: 82% of users primarily tracked sedentary activity, suggesting many users lead seated or inactive lifestyles.
     Weekday vs. Weekend Use: Engagement (e.g., device usage and logging) is higher midweek, peaking on Tuesdays and Wednesdays, and drops on weekends.
     Low Step Counts: Many users fall short of the recommended 10,000 daily steps, indicating a gap between intended and actual activity levels.
+
+--------
 
 **Business Insights & Recommendations**
 
