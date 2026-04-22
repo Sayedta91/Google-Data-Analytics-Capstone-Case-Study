@@ -20,7 +20,8 @@ SQL Analysis (Data Exploration & Segmentation)
     Aggregation of daily and user-level activity metrics
     Calculation of activity intensity percentages (active vs sedentary time)
     User segmentation based on average daily steps (low, moderate, high activity)
-    View SQL queries [here](https://github.com/Sayedta91/Google-Data-Analytics-Capstone-Case-Study/blob/26fa68299985d5adcedd0aca4b86701125e5bd4c/bellabeatAnalysis.sql).
+View SQL queries [here](https://github.com/Sayedta91/Google-Data-Analytics-Capstone-Case-Study/blob/26fa68299985d5adcedd0aca4b86701125e5bd4c/bellabeatAnalysis.sql).
+
 Key Analysis Areas
 
     Daily activity patterns (steps, distance, calories)
