@@ -4,7 +4,7 @@ This project is part of the Google Data Analytics Professional Certificate Capst
 
 --------
 
-*Objective
+**Objective**
 
 Use Fitbit fitness tracker data to identify trends in user behavior and provide actionable recommendations for Bellabeat's marketing and engagement strategy.
 
@@ -39,7 +39,7 @@ Key Trends Identified
 
 --------
 
-*Business Insights & Recommendations**
+**Business Insights & Recommendations**
 
 Encourage Consistent Usage
 
