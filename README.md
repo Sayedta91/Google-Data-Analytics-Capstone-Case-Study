@@ -10,7 +10,7 @@ Use Fitbit fitness tracker data to identify trends in user behavior and provide 
 
 Tools Used
 
-    Python: pandas, matplotlib, NumPy
+    Python: pandas, matplotlib, seaborn, NumPy
     Jupyter Notebook for analysis and visualization
     GitHub for project sharing and version control
 
